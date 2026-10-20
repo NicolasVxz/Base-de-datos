@@ -8,7 +8,6 @@ Proyecto final del curso Base de Datos Avanzadas y Big Data (2026-2).
 - Power BI Desktop
 
 ## Estructura
-- data/: datasets (original solo como ficha, procesado y sintético)
 - sql/: scripts DDL y consultas
 - etl/: consultas de Power Query (ETL)
 - bi/: dashboard de Power BI
