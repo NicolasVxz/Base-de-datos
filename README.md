@@ -7,7 +7,6 @@ Proyecto final del curso Base de Datos Avanzadas y Big Data (2026-2).
 - Python 3.10
 - SQL Server 2022
 - MongoDB 7.0
-- Apache Spark 3.5.0 (PySpark)
 - Power BI Desktop
 
 ## Estructura
