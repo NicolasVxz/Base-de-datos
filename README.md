@@ -16,5 +16,3 @@ Proyecto final del curso Base de Datos Avanzadas y Big Data (2026-2).
 - results/: logs, métricas y visualizaciones
 - docs/: diagramas y diccionario de datos
 
-## Instrucciones de ejecución
-Pendiente (se completa al finalizar el proyecto).
