@@ -1,0 +1,6 @@
+data/original/*
+!data/original/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/

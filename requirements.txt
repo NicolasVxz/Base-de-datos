@@ -1,0 +1,4 @@
+pandas==2.0.*
+faker
+pymongo
+pyspark==3.5.0
