@@ -3,13 +3,16 @@
 Proyecto final del curso Base de Datos Avanzadas y Big Data (2026-2).
 
 ## Requisitos
-- Windows 11 con WSL2
-- SQL Server 2022
-- Power BI Desktop
+
+* Windows 11 con WSL2
+* SQL Server 2022
+* Power BI Desktop
 
 ## Estructura
-- sql/: scripts DDL y consultas
-- etl/: consultas de Power Query (ETL)
-- bi/: dashboard de Power BI
-- docs/: diagramas y diccionario de datos
+
+* sql/: scripts DDL y consultas
+* etl/: consultas de Power Query (ETL)
+* bi/: dashboard de Power BI
+* docs/: diagramas y diccionario de datos
+* BigData/: procesamiento y análisis de Big Data
 
