@@ -37,16 +37,17 @@ La clínica no puede analizar de forma oportuna sus tiempos de atención, rentab
 * Windows 11 con WSL2
 * SQL Server 2022
 * Power BI Desktop
+* DataBricks
 
 
 
 ## Estructura
 
-* sql/: Scripts DDL y consultas
-* bi/: Dashboards y proceso ETL
-* docs/: Diagramas y diccionario de datos
-* BigData/: Procesamiento y análisis de Big Data
-* ExperimentosDocumentados/: Registro de los experimentos realizados
-* Experimentos/: Descripción de lo que contiene
+* sql: Scripts DDL y consultas
+* bi: Dashboards y proceso ETL
+* docs: Diagramas y diccionario de datos
+* BigData: Procesamiento y análisis de Big Data
+* ExperimentosDocumentados: Registro de los experimentos realizados
+* Experimentos: Descripción de lo que contiene
 * ProcedimientoReplicado: Procedimientos detallados para reproducir las soluciones BI, Big Data y los experimentos realizados.
 
