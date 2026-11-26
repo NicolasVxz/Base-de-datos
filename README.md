@@ -38,6 +38,8 @@ La clínica no puede analizar de forma oportuna sus tiempos de atención, rentab
 * SQL Server 2022
 * Power BI Desktop
 
+
+
 ## Estructura
 
 * sql/: scripts DDL y consultas
@@ -47,4 +49,5 @@ La clínica no puede analizar de forma oportuna sus tiempos de atención, rentab
 * BigData/: procesamiento y análisis de Big Data
 * ExperimentosDocumentados/: registro de los experimentos realizados
 * Experimentos/: descripción de lo que contiene
+* ProcedimientoReplicado: Procedimientos detallados para reproducir las soluciones BI, Big Data y los experimentos realizados.
 
