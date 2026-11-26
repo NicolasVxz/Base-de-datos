@@ -42,12 +42,11 @@ La clínica no puede analizar de forma oportuna sus tiempos de atención, rentab
 
 ## Estructura
 
-* sql/: scripts DDL y consultas
-* etl/: consultas de Power Query (ETL)
-* bi/: dashboard de Power BI
-* docs/: diagramas y diccionario de datos
-* BigData/: procesamiento y análisis de Big Data
-* ExperimentosDocumentados/: registro de los experimentos realizados
-* Experimentos/: descripción de lo que contiene
+* sql/: Scripts DDL y consultas
+* bi/: Dashboards y proceso ETL
+* docs/: Diagramas y diccionario de datos
+* BigData/: Procesamiento y análisis de Big Data
+* ExperimentosDocumentados/: Registro de los experimentos realizados
+* Experimentos/: Descripción de lo que contiene
 * ProcedimientoReplicado: Procedimientos detallados para reproducir las soluciones BI, Big Data y los experimentos realizados.
 
