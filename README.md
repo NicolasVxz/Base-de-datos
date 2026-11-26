@@ -46,4 +46,5 @@ La clínica no puede analizar de forma oportuna sus tiempos de atención, rentab
 * docs/: diagramas y diccionario de datos
 * BigData/: procesamiento y análisis de Big Data
 * ExperimentosDocumentados/: registro de los experimentos realizados
+* Experimentos/: descripción de lo que contiene
 
