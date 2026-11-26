@@ -15,4 +15,5 @@ Proyecto final del curso Base de Datos Avanzadas y Big Data (2026-2).
 * bi/: dashboard de Power BI
 * docs/: diagramas y diccionario de datos
 * BigData/: procesamiento y análisis de Big Data
+* ExperimentosDocumentados/: registro de los experimentos realizados
 
